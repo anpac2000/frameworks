@@ -1,0 +1,47 @@
+.opaco{
+  background-color: #16c3c3ff;
+  opacity: .8;
+}
+
+
+.tipo{
+  background-origin: padding-box;
+  background-color: #9c09c2ff;
+  opacity: 1;
+}
+
+body{
+  background: url(../img/1.jpg);
+  background-attachment: scroll;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  height: 120em;
+  width: 100%;
+
+}
+
+.inner-addon {
+position: relative;
+}
+.inner-addon .glyphicon {
+position: absolute;
+padding: 10px;
+pointer-events: none;
+}
+
+.texto{
+  font-size: .8em;
+  font-style: italic;
+  color: white;
+}
+
+.texto-h{
+  font-size: 1em;
+  color: white;
+}
+
+.texto-t{
+  font-size: .8em;
+  color: white;
+}

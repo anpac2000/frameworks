@@ -1,0 +1,102 @@
+body{
+  background: url(../img/fondo.jpg);
+  background-attachment: scroll;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  height: 80em;
+  width: 100%;
+
+}
+
+.texto-h{
+  font-size: 1.5em;
+  color: white;
+}
+.barra-superior{
+  min-height: 6rem;
+}
+
+.piramide{
+  height: 38.5em;
+  width: 100%;
+}
+
+
+.paisaje1{
+  height: 19.0em;
+  width: 100%;
+}
+
+.paisaje2{
+  height: 19.0em;
+  width: 100%;
+}
+
+.paisaje5{
+  height: 12.0em;
+  width: auto;
+}
+
+.paisaje6{
+  height: 13.0em;
+  width: auto;
+}
+
+.paisaje7{
+  height: 12.5em;
+  width: auto;
+}
+
+.foto{
+  height: 4.5em;
+  width: auto;
+
+  margin-top: .5em;
+}
+.buceo{
+  margin-top: 1em;
+  height: 10em;
+  width: auto;
+}
+
+.texto-t{
+  font-size: 1em;
+}
+.noticias{
+  height: auto;
+  margin-left: 2.5em;
+  margin-right: 2.5em;
+  background-color: white;
+}
+.perfil{
+  margin-top: auto;
+  height: auto;
+  background: white;
+}
+
+.botones{
+  margin-top: 2em;
+}
+
+.comentarios{
+  background-color: blue;
+  height: 10em;
+  width: 100;
+  margin-left: 1em;
+  margin-right: 4em;
+}
+div[class*="columna"]{
+  min-height: 40em;
+}
+
+.logo{
+  width: 10.5em;
+  margin-top: 1em;
+  float: left;
+}
+.contenedor-noticias{
+  margin-top: 1rem;
+  min-height: 50rem;
+  padding: 0.5rem;
+}
